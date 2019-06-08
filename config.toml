@@ -1,7 +1,7 @@
 baseurl                 = "https://example.com/"
 DefaultContentLanguage  = "en"
 title                   = "Sourdough Recipe Overview Site"
-theme                   = "bread_static"
+theme                   = "bread_static_theme"
 preserveTaxonomyNames   = true
 paginate                = 3
 disqusShortname         = ""
